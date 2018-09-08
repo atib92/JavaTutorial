@@ -1,0 +1,23 @@
+Cons NewThread Thread
+Start Running child thread
+NewThread 0
+New Thread II cons
+MainThread 0
+Start Running child II thread
+NewThread II0
+NewThread 1
+NewThread II1
+MainThread 1
+NewThread 2
+NewThread II2
+NewThread 3
+NewThread II3
+MainThread 2
+NewThread II4
+NewThread 4
+New Thread Ended
+New Thread II  Ended
+MainThread 3
+MainThread 4
+Main Ended
+
