@@ -1,0 +1,26 @@
+Thread t1 true
+Thread t2 true
+Thread t3 true
+Child t1 0
+Child t2 0
+Child t3 0
+Child t1 1
+Child t3 1
+Child t2 1
+Child t1 2
+Child t3 2
+Child t2 2
+Child t1 3
+Child t2 3
+Child t3 3
+Child t1 4
+Child t3 4
+Child t2 4
+Child Thread end
+Child Thread end
+Child Thread end
+false
+false
+false
+Main End
+
