@@ -4,12 +4,13 @@ public class MainThread {
         new NewThread_II();
         try {
             for(int i=0;i<5;i++) {
-                System.out.println("MainThread " + i);
+                System.out.println(Thread.currentThread());
+                System.out.println("Main:"+i);
                 Thread.sleep(1000); 
             }
         } catch (InterruptedException e) {
             System.out.println("Main Thread interuppted");
         }
-        System.out.println("Main Ended");
+        System.out.println("Main Thread Ended");
     }
 }
