@@ -1,1 +1,3 @@
-info 2
+This is an example demostrating the usage of Join and isAlive methods. 3 Threds are created using the 
+runnable interface. There status is checked using the isAlive method and finally they are joined before 
+main ends.
