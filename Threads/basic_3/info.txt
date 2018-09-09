@@ -1,1 +1,4 @@
-info
+Main Threads spwaws one high priority and 1 low pririoty thread.
+Both new thread increment number of clicks when are running.
+At the end, the higher priority threas ends with more clicks which indicates
+that had the CPU for more time
