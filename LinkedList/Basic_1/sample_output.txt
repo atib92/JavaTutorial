@@ -1,0 +1,23 @@
+Creating LL 
+Add: 10
+Add: 15
+Add: 20
+Add: 25
+traverse:
+10
+15
+20
+25
+Del: 15
+traverse:
+10
+20
+25
+Del: 10
+traverse:
+20
+25
+Del: 25
+traverse:
+20
+
