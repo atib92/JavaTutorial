@@ -1,0 +1,3 @@
+Slightly more complex operations like :
+a. swap elements of a linked list by manipulating pointers. This technique is optimal than copying data, since a node can be very heavy.
+b. Reverse a linked list
