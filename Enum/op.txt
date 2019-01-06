@@ -1,0 +1,21 @@
+Enter num students:2
+num students: 2
+Enter Year: 2010
+Enter Number of courses: 2
+Enter Name: Mr Atib
+1:History2:Maths3:English4:Chemistry5:Computer Science2
+1:History2:Maths3:English4:Chemistry5:Computer Science3
+creating new student
+Mr Atib 2010 1200
+Maths
+Enter Year: 2018
+Enter Number of courses: 3
+Enter Name: Mr New Atib
+1:History2:Maths3:English4:Chemistry5:Computer Science2
+1:History2:Maths3:English4:Chemistry5:Computer Science3
+1:History2:Maths3:English4:Chemistry5:Computer Science4
+creating new student
+Mr New Atib 2018 1800
+Maths
+English
+
